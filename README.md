@@ -23,7 +23,10 @@ npm uninstall -g nice-swa-cli
 nice-swa-cli -v
 nice-swa-cli --version
 ```
-
+- 帮助
+```
+nice-swa-cli -help
+```
 - 初始化前端项目
 ```
 //默认下载master分支
