@@ -8,10 +8,12 @@
 
 ## 安装与卸载
 ```
-//卸载最新命令行工具
-npm uninstall -g nice-swa-cli
 //安装最新命令行工具
 npm install -g nice-swa-cli
+可以指定最新版本 v1.0.2
+npm install -g nice-swa-cli@1.0.3
+//卸载最新命令行工具
+npm uninstall -g nice-swa-cli
 ```
 
 ## 工具使用
