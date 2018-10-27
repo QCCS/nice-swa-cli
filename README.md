@@ -3,8 +3,8 @@
 - nice-swa，读着：laishua，中文名：来耍。加了-cli，是项目的命令行工具
 
 ## nice-swa项目地址
-[nice-swa前端项目地址](https://github.com/QCCS/nice-swa)
-[nice-swa后端项目地址](https://github.com/QCCS/nice-swa-s)
+- [nice-swa前端项目地址](https://github.com/QCCS/nice-swa)
+- [nice-swa后端项目地址](https://github.com/QCCS/nice-swa-s)
 
 ## 安装与卸载
 ```
